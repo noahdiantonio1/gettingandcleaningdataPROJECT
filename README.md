@@ -39,6 +39,7 @@ To read MeanData.txt into R, download MeanData.txt to your working directory and
 MeanData <- read.table("MeanData.txt", header = TRUE)
 View(MeanData)
 ```
+Credit for the idea of including code to open my file goes to David Hood (https://thoughtfulbloke.wordpress.com/2015/09/09/getting-and-cleaning-the-assignment/)
 #### Codebook.md
 Codebook.md contains the answers to these four questions:
 1. What is the original data that goes into run_analysis.R?
