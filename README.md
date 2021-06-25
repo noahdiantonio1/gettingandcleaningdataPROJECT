@@ -1,16 +1,16 @@
 # Course Project: Getting and Cleaning Data
-### Noah DiAntonio\
-\
+### Noah DiAntonio
+
 
 This repository contains four relevant files:\
 README.md\
 run_analysis.R\
 MeanData.txt\
 Codebook.md\
-\
 
-#### README.me\
-README.md is the file that you are reading right now.\
+
+#### README.me
+README.md is the file that you are reading right now.
 
 
 
