@@ -1,2 +1,9 @@
-# gettingandcleaningdataPROJECT
-A repository for the final programming project for the course "Getting and Cleaning Data"
+
+
+
+
+MeanData <- read.table("MeanData.txt", header = TRUE)
+View(MeanData)
+
+
+This script converts a dataset of data collected from the accelerometers and gyroscopes from the Samsung Galaxy S smartphone into a new, tidy dataset which displays the (newly calculated) averages of the mean and standard deviation values (included in the original dataset) of the accelerometer and gyroscope measurements for each subject and for each activity performed by each subject.
