@@ -41,7 +41,6 @@ View(MeanData)
 ```
 #### Codebook.md
 Codebook.md contains the answers to these four questions:
-1. What data that goes into run_analysis.R?
+1. What is the original data that goes into run_analysis.R?
 2. How is the data transformed in the course of run_analysis.R?
-3. What are all of the variables in run_analysis.R?
-4. What are all of the variables in MeanData.txt?
+3. What are the variables in MeanData.txt?
