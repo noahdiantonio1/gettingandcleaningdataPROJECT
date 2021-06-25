@@ -32,8 +32,8 @@ run_analysis.R:
 
 ## Variables in MeanData.txt
 ID Variables:
-subject: the numeric identifier for a given subject
-activity: the activity performed by the subject
+- subject: the numeric identifier for a given subject
+- activity: the activity performed by the subject
 
 Measurement Variables:
 For the measurement variables, rather than providing a description of all 66 measurement variables, I will provide you with a key to reading them. For each term which might show up in a variable name, I will provide a description:
